@@ -42,12 +42,14 @@ public class MainActivity extends AppCompatActivity
 
     public void openMenu4(View view)
     {
-
+        menuIntent = new Intent(this,Menu4.class);
+        startActivity(menuIntent);
     }
 
     public void openMenu5(View view)
     {
-
+        menuIntent = new Intent(this,Menu5.class);
+        startActivity(menuIntent);
     }
 
     public void openMenu6(View view)

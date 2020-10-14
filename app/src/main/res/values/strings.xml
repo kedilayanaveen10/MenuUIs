@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">MenuUIs</string>
+    <string-array name="players">
+        <item>ter Stegen</item>
+        <item>Neto</item>
+        <item>Sergi Roberto</item>
+        <item>Sergio Dest</item>
+        <item>Gerard Pique</item>
+        <item>Clement Lenglet</item>
+        <item>Ronald Araujo</item>
+        <item>Samuel Umtiti</item>
+        <item>Jordi Alba</item>
+        <item>Junior Firpo</item>
+        <item>de Jong</item>
+        <item>Sergio Busquests</item>
+        <item>Riqui Puig</item>
+        <item>Pedri</item>
+        <item>Miralem Pjanic</item>
+        <item>Lionel Messi</item>
+        <item>Ansu Fati</item>
+        <item>Philipe Coutinho</item>
+        <item>Fransisco Trincao</item>
+        <item>Ousmane Dembele</item>
+    </string-array>
 </resources>
