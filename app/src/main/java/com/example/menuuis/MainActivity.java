@@ -60,7 +60,8 @@ public class MainActivity extends AppCompatActivity
 
     public void openMenu7(View view)
     {
-
+        menuIntent = new Intent(this,Menu7.class);
+        startActivity(menuIntent);
     }
 
     public void openMenu8(View view)
